@@ -1,1 +1,1 @@
-All crud operations with students. Spring + Hibernate + Aspects
+All CRUD operations with students. Spring + Hibernate + Aspects
